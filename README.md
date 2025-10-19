@@ -2,22 +2,22 @@
 A notifier application in python with customizable timers.
 
 # Installation & Usage
-First, you need a working version of Python, which you can install here, if you don't have one:
-https://www.python.org/downloads/
+First, you need a working version of Python, which you can install here, if you don't have one:  
+https://www.python.org/downloads/  
 
-After that, in your console / powershell / cmd, move to a suitable directory (typically either 'Downloads' or 'Desktop'), and from there type:
-```git clone https://github.com/pikachoof/oabd_notifier.git```
-
-It will download the application's file into the oabd_notifier folder.
-Move into the oabd_notifier folder via:
-```cd oabd_notifier```
-
-Then launch the script via:
-1) ```python main.py```
-or
-2) ```python3 main.py```
-if the 1st one doesn't work.
-
+After that, in your console / powershell / cmd, move to a suitable directory (typically either 'Downloads' or 'Desktop'), and from there type:  
+```git clone https://github.com/pikachoof/oabd_notifier.git```  
+  
+It will download the application's file into the oabd_notifier folder.  
+Move into the oabd_notifier folder via:  
+```cd oabd_notifier```  
+  
+Then launch the script via:  
+1) ```python main.py```  
+or  
+2) ```python3 main.py```  
+if the 1st one doesn't work.  
+  
 # Features:
 ## Add timer
 Create a new timer with a name and set its interval
