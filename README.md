@@ -8,7 +8,7 @@ https://www.python.org/downloads/
 After that, in your console / powershell / cmd, move to a suitable directory (typically either 'Downloads' or 'Desktop'), and from there type:  
 ```git clone https://github.com/pikachoof/oabd_notifier.git```  
   
-It will download the application's file into the oabd_notifier folder.  
+It will download the application's file into the ```oabd_notifier``` folder.  
 Move into the oabd_notifier folder via:  
 ```cd oabd_notifier```  
   
