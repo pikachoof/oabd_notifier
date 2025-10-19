@@ -1,5 +1,6 @@
 # oabd_notifier
 A notifier application in python with customizable timers.
+![](static/logo.png)
 
 # Installation & Usage
 First, you need a working version of Python, which you can install here, if you don't have one:  
