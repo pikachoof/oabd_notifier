@@ -1,0 +1,4 @@
+RobloxPlayerBeta.exe,18,Anti AFK!,True
+RobloxPlayerBeta.exe,30,Relic CD!,True
+RobloxPlayerBeta.exe,45,Relic CD! (Without 1.5x)!,True
+RobloxPlayerBeta.exe,30,Corpse CD!,True

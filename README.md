@@ -11,6 +11,9 @@ After that, in your console / powershell / cmd, move to a suitable directory (ty
 It will download the application's file into the ```oabd_notifier``` folder.  
 Move into the oabd_notifier folder via:  
 ```cd oabd_notifier```  
+
+Then install the necessary Python dependencies via:  
+```pip install -r requirements.txt```  
   
 Then launch the script via:  
 1) ```python main.py```  
