@@ -23,4 +23,4 @@ If you don't wanna use a timer anymore, just delete it by cliking on the timer a
 3) After you launch RobloxPlayerLauncher.exe, the *Active* timers will automatically start their countdowns and print a screen notification that the time is up.
 
 # Video demonstration:
-* Video here *
+https://streamable.com/nvzqxv
